@@ -2,11 +2,11 @@
 
 所有文件由Mindjet MindManager导出，本身源码无意义。可以使用软件并下载`mmap`源文件自己扩展，也可以通过以下方式浏览：
 
-[browser](https://www.yangyu.us/mindmap-notes/browser.html)<br />
-[css](https://www.yangyu.us/mindmap-notes/css.html)<br />
-[javascript](https://www.yangyu.us/mindmap-notes/javascript.html)<br />
-[performance-optimization](https://www.yangyu.us/mindmap-notes/performance-optimization.html)<br />
-[react](https://www.yangyu.us/mindmap-notes/react.html)<br />
-[react-router](https://www.yangyu.us/mindmap-notes/react-router.html)<br />
-[redux](https://www.yangyu.us/mindmap-notes/redux.html)<br />
-[web-security](https://www.yangyu.us/mindmap-notes/web-security.html)
+[browser](https://yjunior.gitee.io/mindmap-notes/browser.html)<br />
+[css](https://yjunior.gitee.io/mindmap-notes/css.html)<br />
+[javascript](https://yjunior.gitee.io/mindmap-notes/javascript.html)<br />
+[performance-optimization](https://yjunior.gitee.io/mindmap-notes/performance-optimization.html)<br />
+[react](https://yjunior.gitee.io/mindmap-notes/react.html)<br />
+[react-router](https://yjunior.gitee.io/mindmap-notes/react-router.html)<br />
+[redux](https://yjunior.gitee.io/mindmap-notes/redux.html)<br />
+[web-security](https://yjunior.gitee.io/mindmap-notes/web-security.html)
